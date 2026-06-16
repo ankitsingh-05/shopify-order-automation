@@ -1,0 +1,9 @@
+{
+  "tags": "MakeOrder",
+  "total_price": "3000.00",
+  "customer": {
+    "first_name": "Rahul",
+    "email": "rahul@example.com",
+    "tags": "ColdCustomer"
+  }
+}
