@@ -72,4 +72,5 @@ Send discount email to the customer
 ## Live Workflow
 https://eoyi8okzenkyx7v.m.pipedream.net
 
-## Workflow Screenshots
+## Workflow Overview
+<img width="1918" height="910" alt="workflow_overview" src="https://github.com/user-attachments/assets/203723cb-32ba-4502-80ba-1f09e8ee3c9e" />
